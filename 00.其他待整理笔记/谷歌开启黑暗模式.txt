@@ -1,0 +1,5 @@
+1、浏览器地址输入chrome://flags/
+2、搜索dark
+3、设置开启
+
+解决办法：Chrome浏览器地址栏输入：chrome://flags/，按回车进入配置界面，找到Force color profile选项，我的显示器支持的是Display P3色域，选择你显示器所支持的色域后保存退出，截图恢复正常。

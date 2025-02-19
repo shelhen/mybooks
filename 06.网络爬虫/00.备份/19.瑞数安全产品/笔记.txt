@@ -1,0 +1,34 @@
+
+
+瑞数
+
+    瑞数4代
+        特点 : 两次请求   状态码202      返回的是html页面     自执行函数
+        响应的 cookie键        FSSBBIl1UgzbN7N80S
+        前一个页面生成的 cookie FSSBBIl1UgzbN7N80T
+        debugger   需要过两次  
+
+
+
+瑞数  400 状态码
+delete __filename
+delete __dirname
+
+瑞数5
+    两次debugger     响应状态码  412
+    键值对特点
+    ihkYnttrQXfVO
+    ihkYnttrQXfVP
+    外链js文件      ts代码
+
+
+13k
+
+瑞数6
+    debugger  3次
+    键名字
+    hvAJjymUYBa3O
+    hvAJjymUYBa3P   值的第一个参数  6
+    外链文件    自执行方法
+
+
